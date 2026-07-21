@@ -8,10 +8,7 @@ This project follows a modular Infrastructure as Code (IaC) approach by separati
 
 ## Architecture
 
-```
-<img width="1536" height="1024" alt="eks" src="https://github.com/user-attachments/assets/2e4cb51f-f673-4957-8e9f-7db883cca801" />
-
-```
+<img width="1536" height="1024" alt="eks" src="https://github.com/user-attachments/assets/7943c2da-41c0-4178-841f-890fc99c9c30" />
 
 ---
 
