@@ -9,7 +9,7 @@ terraform {
   backend "s3" {
     bucket         = "terraform-statefile-prod-a"
     key            = "terraform.tfstate"
-    region         = "us-east-2"
+    region         = "us-east-1"
     dynamodb_table = "terraform-statelock-prod"
     encrypt        = true
   }
